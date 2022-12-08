@@ -1,3 +1,4 @@
+kent up
 kent
 net
 commit test
